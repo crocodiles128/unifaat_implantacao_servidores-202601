@@ -6,4 +6,10 @@ O Docker Swarm permite a orquestração de containers em um cluster distribuído
 2.
 Em um cluster Docker Swarm, os nós do tipo Manager são responsáveis por gerenciar o cluster, distribuindo tarefas, mantendo o estado desejado e monitorando os serviços. Já os nós Worker executam as tarefas atribuídas, rodando os containers e reportando seu status aos managers.
 
+3.
+A) docker swarm init
+B) O driver de rede padrão é o overlay, que permite a comunicação entre serviços distribuídos em diferentes nós do cluster.
+
+
+
 
