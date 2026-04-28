@@ -48,3 +48,4 @@ docker service rm app-stack-tf9
 comando para sair do swarm
 
 docker swarm leave --force
+
